@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]
+"ExtensionSettings"="{\"lhocpnmkogmdgdcdoegbhccpeefobhnc\":{\"installation_mode\":\"normal_installed\",\"update_url\":\"https://github.com/snhuahmed/ytclip-dist/releases/latest/download/update.xml\"}}"
